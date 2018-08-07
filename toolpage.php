@@ -75,7 +75,7 @@
 																</div>
 																<div id="collapse2" class="panel-collapse collapse">
 																	<div class="panel-body">Define a goal by asking yourself WHAT, WHO, WHY, WHERE and WHEN.</div>
-																	<div class="panel-footer"><a href="http://seroi.plus/tool/goals/">More about how to define a goal</a></div>
+																	<div class="panel-footer"><a href="http://seroi.plus/tool/stakeholders/">More about how to define a goal</a></div>
 																</div>
 															</div>
 														</div>
