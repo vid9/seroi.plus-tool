@@ -65,6 +65,21 @@
 											<div class="tab-pane" id="stakeholder_services">
 												<h4 class="info-text">What are your stakeholders and what is your main service.</h4>
 												<div class="row">
+												<div class="container col-sm-12">
+														<div class="panel-group">
+															<div class="panel panel-default">
+																<div class="panel-heading">
+																	<h4 class="panel-title">
+																		<a data-toggle="collapse" href="#collapse2"><i class="material-icons">help_outline</i> How to define a goal?</a>
+																	</h4>
+																</div>
+																<div id="collapse2" class="panel-collapse collapse">
+																	<div class="panel-body">Define a goal by asking yourself WHAT, WHO, WHY, WHERE and WHEN.</div>
+																	<div class="panel-footer"><a href="http://seroi.plus/tool/goals/">More about how to define a goal</a></div>
+																</div>
+															</div>
+														</div>
+													</div>
 													<div class="col-sm-10 col-sm-offset-1">
 														<div class="col-sm-4">
 															<div class="choice" data-toggle="wizard-radio" rel="tooltip" title="This is good if you travel alone.">
